@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=180&text=백엔드%20개발자%20안희연입니다&fontSize=50&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=150&text=백엔드%20개발자%20안희연입니다&fontSize=30&fontColor=000000)
 
 ### 🛠 Tech Stack
 ---
